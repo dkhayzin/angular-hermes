@@ -1,0 +1,30 @@
+{
+  "name": "angular-hermes",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dkhayzin/hermes",
+  "authors": [
+    "Dmitriy Khayzin"
+  ],
+  "description": "Custom event system for AngularJS, taking some inspiration from jQuery",
+  "main": "hermesService.js",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "hermes",
+    "service",
+    "events"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">1.2",
+    "underscore": "*"
+  }
+}
