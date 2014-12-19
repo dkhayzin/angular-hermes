@@ -1,4 +1,4 @@
-hermes
+Hermes
 ======
 
 Advanced event system for AngularJS
